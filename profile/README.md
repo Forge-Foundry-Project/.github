@@ -1,4 +1,4 @@
-# Forge Foundry
+# AshGrove Project
 
 Building software, sharing knowledge, and continuously learning.
 
@@ -8,7 +8,7 @@ Forge Foundry is an open-source software ecosystem focused on Linux, Rust, Artif
 
 ## Mission
 
-Forge Foundry exists to:
+AshGrove Project exists to:
 
 * Build practical open-source software
 * Advance Linux and Rust development
@@ -22,7 +22,7 @@ We believe the best way to learn is by building, documenting, and sharing the jo
 
 ## Projects
 
-### ForgeOS
+### AshGrove OS
 
 An immutable Linux operating system built on Fedora Atomic technologies.
 
@@ -64,7 +64,7 @@ AI-assisted developer tooling built with Rust.
 
 ---
 
-### Forge Welcome
+### AshGrove Welcome
 
 A first-run experience and onboarding platform for ForgeOS.
 
@@ -110,15 +110,15 @@ Through development journals, tutorials, architecture discussions, and project d
 
 ## Current Focus
 
-* ForgeOS
+* AshGrove OS
 * OpenForge
 * Rust-GPT
-* Forge Welcome
+* AshGrove Welcome
 * Linux Development
 * Rust Programming Mastery
 
 ---
 
-### Forge Foundry
+### AshGrove
 
 **Build. Forge. Innovate.**
